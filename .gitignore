@@ -73,3 +73,8 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# ローカル専用メモ
+_docs/
+CLAUDE.md
+docs/
